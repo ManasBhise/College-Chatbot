@@ -1,1 +1,6 @@
-# College-Chatbot
+tensorflow
+nltk
+numpy
+scikit-learn
+flask
+streamlit
