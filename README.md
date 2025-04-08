@@ -1,6 +1,6 @@
 # College Chatbot
 
-![Chatbot Screenshot](<PASTE_YOUR_IMAGE_LINK_HERE>)
+![Chatbot Screenshot](<https://github.com/ManasBhise/College-Chatbot/blob/main/Screenshot%20.png>)
 
 ---
 
