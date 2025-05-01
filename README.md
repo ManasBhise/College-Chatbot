@@ -20,6 +20,8 @@
 
 This project is an AI-powered rule-based **College Chatbot** that simulates answering student queries related to college facilities, admission, contact details, fees, and more. It has a web-based user interface created using **Flask** and **HTML/CSS**, backed by a simple machine learning model for intent classification.
 
+### Dataset Source
+<p>https://www.kaggle.com/datasets/tusharpaul2001/university-chatbot-dataset</p>
 ---
 
 ## 🛠️ Step-by-Step Workflow
